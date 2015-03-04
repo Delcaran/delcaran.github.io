@@ -1,0 +1,4 @@
+highlighter: pygments
+encoding: utf-8
+timezone: Europe/Rome
+lsi: true
